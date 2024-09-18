@@ -1,10 +1,13 @@
 const AppError = (message, statusCode) => {
   const error = new Error(message);
 
-  error.statusCode = error.statusCode || 500;
-  error.status = error.statusCode.startsWith("4") ? "Not found" : "error";
+  error.statusCode = statusCode || 500;
+  error.status = `${statusCode}`.startsWith("4") ? "fail" : "error";
+  error.isOperational = true;
 
-  
+  Error.captureStackTrace(error, AppError);
 
   return error;
 };
+
+export default AppError;

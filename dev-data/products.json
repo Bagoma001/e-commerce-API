@@ -166,5 +166,53 @@
         "style": "Modern"
       }
     ]
+  },
+  {
+    "name": "Askari 132' Feather Down Cozy Cloud Sofa",
+    "description": "This modular sectional sofa gives you a versatile way to set up your living room with space for four people to enjoy movie night or the big game. Each piece has a solid and engineered wood frame that rests on black low-profile legs. This couch is wrapped in white linen upholstery with a foam fill and a sinuous spring to provide plenty of support as you stretch out and relax. With a crisp, clean silhouette this sectional is just the right addition to bring everyone together.",
+    "price": 2700,
+    "discount": 12,
+    "createdAt": "2024-04-14",
+    "category": "sofas",
+    "imageCover": "img/Askari.webp",
+    "images": [
+      "img/Askari-1.webp",
+      "img/Askari-2.webp",
+      "img/Askari-3.webp",
+      "img/Askari-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Askari",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+    {
+    "name": "Askari 132' Feather Down Cozy Cloud Sofa",
+    "description": "This modular sectional sofa gives you a versatile way to set up your living room with space for four people to enjoy movie night or the big game. Each piece has a solid and engineered wood frame that rests on black low-profile legs. This couch is wrapped in white linen upholstery with a foam fill and a sinuous spring to provide plenty of support as you stretch out and relax. With a crisp, clean silhouette this sectional is just the right addition to bring everyone together.",
+    "price": 2700,
+    "discount": 12,
+    "createdAt": "2024-04-14",
+    "category": "sofas",
+    "imageCover": "img/Askari.webp",
+    "images": [
+      "img/Askari-1.webp",
+      "img/Askari-2.webp",
+      "img/Askari-3.webp",
+      "img/Askari-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Askari",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
   }
 ]
