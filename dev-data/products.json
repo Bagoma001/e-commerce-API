@@ -171,8 +171,8 @@
     "name": "Askari 132' Feather Down Cozy Cloud Sofa",
     "description": "This modular sectional sofa gives you a versatile way to set up your living room with space for four people to enjoy movie night or the big game. Each piece has a solid and engineered wood frame that rests on black low-profile legs. This couch is wrapped in white linen upholstery with a foam fill and a sinuous spring to provide plenty of support as you stretch out and relax. With a crisp, clean silhouette this sectional is just the right addition to bring everyone together.",
     "price": 2700,
-    "discount": 12,
-    "createdAt": "2024-04-14",
+    "discount": 8,
+    "createdAt": "2024-04-18",
     "category": "sofas",
     "imageCover": "img/Askari.webp",
     "images": [
@@ -181,10 +181,542 @@
       "img/Askari-3.webp",
       "img/Askari-4.webp"
     ],
+<<<<<<< HEAD
     "quantity": 13,
+=======
+    "quantity": "13",
     "productInformation": [
       {
         "Brand": "Askari",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Derick 74' Wide Upholstered Sleeper Sofa With 2 Pillows And Storage",
+    "description": "Experience the epitome of functionality and comfort with our upholstered sleeper sofa. This multifunctional piece seamlessly combines style and practicality, featuring a plush design that transitions effortlessly from day to night. Its elegant upholstery exudes sophistication, while the inclusion of two pillows adds an extra touch of coziness. Beyond its inviting appearance, this sofa unveils hidden storage space, providing a perfect solution for keeping your living area organized. Transform any space into a haven for relaxation, lounging, and occasional sleeping, thanks to the adaptable design of this upholstered sleeper sofa.",
+    "price": 540,
+    "discount": 4,
+    "createdAt": "2024-04-18",
+    "category": "sofas",
+    "imageCover": "img/Derick.webp",
+    "images": [
+      "img/Derick-1.webp",
+      "img/Derick-2.webp",
+      "img/Derick-3.webp",
+      "img/Derick-4.webp"
+    ],
+    "quantity": "13",
+>>>>>>> 5f291e342b87023074464972785075ad46d1ff52
+    "productInformation": [
+      {
+        "Brand": "Derick",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Jossilynn L-Shape Convertible Sectional Couches Sofas with Storage Chaise",
+    "description": "Hokku Designs is committed to the design and application of furniture, creating applicable high-quality sofas for the diversity of interior space. We focus on offering customers an excellent shopping experience and professional customer services. Hokku Designs is your solution to creating a home that can transform how you would like to live, work, play, and rest. Transform your living space, transform how you live, and transform your life with Hokku Designs.",
+    "price": 739,
+    "discount": 3,
+    "createdAt": "2024-04-19",
+    "category": "sofas",
+    "imageCover": "img/Jossilynn.webp",
+    "images": [
+      "img/Jossilynn-1.webp",
+      "img/Jossilynn-2.webp",
+      "img/Jossilynn-3.webp",
+      "img/Jossilynn-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Jossilynn",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Lundgren Faux Leather Task Chair with Padded Arms",
+    "description": "This task chair combines elegance and functionality, making it a great addition to your modern or contemporary space. The glossy finish on the weathered faux leather upholstery adds sophistication, while the foam filling keeps you comfortable for long hours of work. This chair's adjustable height feature offers customizable comfort. With a 360° swivel, five casters, and a stable base, this chair has a smooth and easy movement that doesn't scratch your floors. The classic design and tufted back make this chair a stylish and practical choice for your home office.",
+    "price": 163,
+    "discount": 9,
+    "createdAt": "2024-04-15",
+    "category": "office chairs",
+    "imageCover": "img/Lundgren.webp",
+    "images": [
+      "img/Lundren-1.webp",
+      "img/Lundren-2.webp",
+      "img/Lundren-3.webp",
+      "img/Lundren-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Lundren",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Katrein Ergonomic Heated Massage Executive Chair",
+    "description": "Executive office chair, ergonomic office chair with adjustable lumbar back support, big and tall office chair with massage and heat, diamond-stitched cushion leather home office desk chair.",
+    "price": 177,
+    "discount": 9,
+    "createdAt": "2024-04-20",
+    "category": "office chairs",
+    "imageCover": "img/Katrein.webp",
+    "images": [
+      "img/Katrein-1.webp",
+      "img/Katrein-2.webp",
+      "img/Katrein-3.webp",
+      "img/Katrein-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "katrein",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Zareon Polyester Office Chair",
+    "description": "This chair has a double-layer design, the seat and backrest are made of high-quality tufted material. The backrest is decorated with buttons. It is also equipped with golden height-adjustable legs, which are designed to rotate 360 degrees. The overall appearance is simple and elegant, with smooth and natural lines, showing a modern and elegant style.vv",
+    "price": 177,
+    "discount": 16,
+    "createdAt": "2024-04-21",
+    "category": "office chairs",
+    "imageCover": "img/Zareon.webp",
+    "images": [
+      "img/Zarreon-1.webp",
+      "img/Zarreon-2.webp",
+      "img/Zarreon-3.webp",
+      "img/Zarreon-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Zareon",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Euclid Upholstered Accent Chair with Metal Legs",
+    "description": "Add this side chair to your living room ensemble and give it some contemporary glam appeal. It's crafted from solid and engineered wood and wrapped in foam-filled velvet upholstery for a luxe look. There are also sinuous springs in the seat for added support whenever you need a spot to relax. We love the flared, gold-finished metal legs for a nod to mid-century modern styles. This accent chair also has an iconic silhouette and vertical channel tufting to round out this eye-catching design. It comes in a variety of solid hue options to blend in with your current color scheme.",
+    "price": 179,
+    "discount": 17,
+    "createdAt": "2024-04-22",
+    "category": "office chairs",
+    "imageCover": "img/Euclid.webp",
+    "images": [
+      "img/Euclid-1.webp",
+      "img/Euclid-2.webp",
+      "img/Euclid-3.webp",
+      "img/Euclid-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Euclid",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Louise Velvet Hand-Curated Task Chair",
+    "description": "This task chair combines style and comfort with its barrel silhouette and button-tufted velvet upholstery. Made from solid and engineered wood, its frame sits on a gold-finished base with double-wheel casters for easy movement on tile, hardwood, or concrete floors. With adjustable height and swivel capabilities, it's designed to be used for hours on end, making it a great choice for your home office. The fixed armrests provide added support, while the foam-filled seat and back ensure a comfortable seating experience.",
+    "price": 175,
+    "discount": 5,
+    "createdAt": "2024-04-23",
+    "category": "office chairs",
+    "imageCover": "img/Louise.webp",
+    "images": [
+      "img/Louise-1.webp",
+      "img/Louise-2.webp",
+      "img/Louise-3.webp",
+      "img/Louise-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Louise",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Frotten 3 - Piece Velvet Living Room Set",
+    "description": "The Chesterfield is a classic icon of designs, stylish and comfortable. Features deep button tufts and plush scrolled arms. Padded back provides diamond button detail and fitted removable seat cushions. Easy spot clean, this classic and contemporary accent chair is design to fit in any home décor.",
+    "price": 1290,
+    "discount": 10,
+    "createdAt": "2024-04-24",
+    "category": "living room set",
+    "imageCover": "img/Frotten.webp",
+    "images": [
+      "img/Frotten-1.webp",
+      "img/Frotten-2.webp",
+      "img/Frotten-3.webp",
+      "img/Frotten-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Frotten",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Anavi 3 - Piece Living Room Set",
+    "description": "This 3-piece living room set features classic Chesterfield-inspired silhouettes and plenty of plush cushioning for whenever you need to relax. It includes a three-seater sofa, a two-seater loveseat, and an accent armchair – each item made from solid and engineered wood and resting on turned solid wood legs for a traditional touch. Wrapped in luxury fabric, this trio is also filled with foam and sinuous springs for ample support as you hang out with family or friends. Rolled arms, button tufting, and nailhead trim round out this distinctive design.",
+    "price": 1459,
+    "discount": 12,
+    "createdAt": "2024-04-25",
+    "category": "living room set",
+    "imageCover": "img/Anavi.webp",
+    "images": [
+      "img/Anavi-1.webp",
+      "img/Anavi-2.webp",
+      "img/Anavi-3.webp",
+      "img/Anavi-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Anavi",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Clifford 2 - Piece Velvet Living Room Set",
+    "description": "The Clifford deep vertical channel tufting sofa mixes a classic look with an Art Deco-inspired silhouette and stands out in your living room. This collection includes one 62.6 wide loveseat and one 87'' wide sofa.",
+    "price": 1420,
+    "discount": 3,
+    "createdAt": "2024-04-26",
+    "category": "living room set",
+    "imageCover": "img/Clifford.webp",
+    "images": [
+      "img/Clifford-1.webp",
+      "img/Clifford-2.webp",
+      "img/Clifford-3.webp",
+      "img/Clifford-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Clifford",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "3-Piece Sectional Sofa Set With Premium PU Leather Upholstery And Flip-Top Storage Ottoman, L-Shaped Modular Couch Set With Chaise, 96 Living Room Furniture Set With Fold-Down Design Cup Holders",
+    "description": "Creating a warm and welcoming space is simple with this 3-piece sectional sofa set. Classic good looks and comfortable style come together for a timeless piece you’ll love for years to come. This elegant sectional sofa set may be what you have in mind. Made with soft and durable PU leather that elevates comfort, the living room furniture set also has studs on the corner of each piece that add personality to your living space. Adding the cocktail ottoman that provides extra space for your refreshment and magazines, how can you not fall in love with this piece of furniture.",
+    "price": 599,
+    "discount": 5,
+    "createdAt": "2024-04-27",
+    "category": "living room set",
+    "imageCover": "img/3 piece set.webp",
+    "images": [
+      "img/3 piece set-1.webp",
+      "img/3 piece set-2.webp",
+      "img/3 piece set-3.webp",
+      "img/3 piece set-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "3 piece set",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Celisha 3 - Piece Velvet Living Room Set",
+    "description": "This 3-piece living room set brings a glam, fresh look to your parlor or relaxation space. Crafted from a blend of solid and engineered wood, this set comes with one loveseat and two matching armchairs balanced on flared hairpin metal legs. Each piece shows off barrel-style shapes with curved backs and channel-tufted tops, creating refined silhouettes that we love in luxe aesthetics. It's wrapped in foam and features sinuous springs to support you as you read and lounge, while velvet upholstery adds a sumptuous feel. Piped trim completes the look.",
+    "price": 540,
+    "discount": 6,
+    "createdAt": "2024-04-28",
+    "category": "living room set",
+    "imageCover": "img/Celisha.webp",
+    "images": [
+      "img/Celisha-1.webp",
+      "img/Celisha-2.webp",
+      "img/Celisha-3.webp",
+      "img/Celisha-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Celisha",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Bernadete Dining Table",
+    "description": "This modern dining table brings a touch of sophistication to your dining space. With a rectangular top crafted from engineered wood in a crisp white finish, it pairs beautifully with the brown pedestal base in a more rustic brown. The table comfortably seats four, making it perfect for intimate gatherings or everyday family meals. Its scratch-resistant surface ensures that it maintains its fresh look over time. The pedestal base design not only adds visual interest but also provides extra legroom for added comfort. Enjoy this contemporary dining table as the centerpiece of your dining area.",
+    "price": 205,
+    "discount": 7,
+    "createdAt": "2024-04-29",
+    "category": "dining tables",
+    "imageCover": "img/Bernadete.webp",
+    "images": [
+      "img/Bernadete-1.webp",
+      "img/Bernadete-2.webp",
+      "img/Bernadete-3.webp",
+      "img/Bernadete-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Bernadete",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Dysis 52 Solid Oak Round Pedestal Dining Table",
+    "description": "This dining strikes a minimalist silhouette that creates a modern gathering space in your home. It's crafted from kiln-dried solid and engineered wood with a finish that highlights the natural wood grain color and pattern and variation. The design features a cone center with a circular table top that showcases any decor you arrange in the center. We love that it's scratch-resistant for holding up to everyday use. This dining table seats six people comfortably, so it's just the right size for a game night or dinner party.",
+    "price": 700,
+    "discount": 9,
+    "createdAt": "2024-04-30",
+    "category": "dining tables",
+    "imageCover": "img/Dysis.webp",
+    "images": [
+      "img/Dysis-1.webp",
+      "img/Dysis-2.webp",
+      "img/Dysis-3.webp",
+      "img/Dysis-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Dysis",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Strickler Solid Wood Dining Table",
+    "description": "This modern farmhouse dining table brings warmth and charm to your dining area with its trestle base and solid wood construction. The rectangular top is made from kiln-dried pine wood, showcasing natural wood grain variations and knots for an authentic, rustic look. The table's base features a matching rustic honey finish, complementing the top's color and adding a touch of elegance to your space. With seating capacity for six, this table is perfect for family dinners and friendly gatherings. Pair it with matching chairs to create a cozy and inviting dining experience.",
+    "price": 580,
+    "discount": 10,
+    "createdAt": "2024-05-01",
+    "category": "dining tables",
+    "imageCover": "img/Strickler.webp",
+    "images": [
+      "img/Strickler-1.webp",
+      "img/Strickler-2.webp",
+      "img/Strickler-3.webp",
+      "img/Strickler-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Strickler",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Audna 79 Dining Table",
+    "description": "Versatile in design, this dining table is here to accommodate multiple people for casual meals and special occasions. It has an engineered wood frame with a solid finish, and it features two curved legs that you can install facing in or outward depending on your preference. The oval table top measures 79 wide, giving you plenty of space for eight guests in your dining room or eat-in kitchen. Curate any area with this table for a more modern look.",
+    "price": 560,
+    "discount": 9,
+    "createdAt": "2024-05-02",
+    "category": "dining tables",
+    "imageCover": "img/Audna.webp",
+    "images": [
+      "img/Audna-1.webp",
+      "img/Audna-2.webp",
+      "img/Audna-3.webp",
+      "img/Audna-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Audna",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Pinellas 39.4 Round Dining Table",
+    "description": "Dinner is ready. This round dining table invites a few people around it for casual meals and cozy coffee chats. It features a steel cross base with an X-shaped silhouette, four angled legs and a sleek finish. The engineered wood tabletop has a 39.4 diameter and is a matching tone for a modern look we love. Its size lets you seat four people around this table comfortably. Compatible chairs are sold separately. Some assembly is required and all tools are included.",
+    "price": 259,
+    "discount": 8,
+    "createdAt": "2024-05-03",
+    "category": "dining tables",
+    "imageCover": "img/Pinellas.webp",
+    "images": [
+      "img/Pinellas-1.webp",
+      "img/Pinellas-2.webp",
+      "img/Pinellas-3.webp",
+      "img/Pinellas-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Pinellas",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Aalycia Farmhouse Bathroom Vanity with Sink, 60 High Gloss Double Sink Bath Vanity with 2 Drawers and Storage Double Doors",
+    "description": "Your high-end life starts with this bathroom cabinet! Made of top-grade UV waterproof material, the UV coating not only effectively resists water vapor, but also makes the cabinet surface as smooth as a mirror, making cleaning and maintenance a breeze, keeping the bathroom space fresh and bright for a long time. With exquisite metal handles, the metallic luster is more textured under the soft light of the bathroom.",
+    "price": 560,
+    "discount": 8,
+    "createdAt": "2024-05-04",
+    "category": "bathroom vanities ",
+    "imageCover": "img/Aalycia.webp",
+    "images": [
+      "img/Aalycia-1.webp",
+      "img/Aalycia-2.webp",
+      "img/Aalycia-3.webp",
+      "img/Aalycia-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Aalycia",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Chimira 60 Double Sink Bathroom Vanity With Sink Combo Set,farmhouse Bathroom Sink And Vanity ,bathroom Vanity With 2 Drawers& Doors",
+    "description": "The farmhouse bathroom vanity features exquisite barn sliding doors and vintage metal accents, blending modern and rustic design. This bathroom vanity has a double-basin integrated sink that prevents leaks and is easy to clean. With ample storage space, it keeps the space neat and tidy. Made of high-quality MDF, the wood bathroom vanity is sturdy and durable, with a thick base and anti-tip design for stability and safety. Easy to assemble in 1 hour, the countertop of double sink vanity is pre-drilled for a 3-hole faucet.",
+    "price": 660,
+    "discount": 10,
+    "createdAt": "2024-05-05",
+    "category": "bathroom vanities ",
+    "imageCover": "img/Chimira.webp",
+    "images": [
+      "img/Chimira-1.webp",
+      "img/Chimira-2.webp",
+      "img/Chimira-3.webp",
+      "img/Chimira-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Chimira",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Andjoua 59.5'' Double Bathroom Vanity with Top",
+    "description": "This freestanding double vanity gives you a spacious spot in your bathroom to get ready for the day. It has a crisp, modern silhouette and a clean-lined base crafted from engineered wood. Three central drawers and two cabinets, each with a set of double doors, provide ample room for towels and toiletries. The white stone countertop measures 59.5 wide and includes two oval undermount sinks, and faucets sold separately. Bonus: This vanity arrives fully assembled with two openings in the back for hassle-free installation.",
+    "price": 879,
+    "discount": 8,
+    "createdAt": "2024-05-06",
+    "category": "bathroom vanities ",
+    "imageCover": "img/Andjoua.webp",
+    "images": [
+      "img/Andjoua-1.webp",
+      "img/Andjoua-2.webp",
+      "img/Andjoua-3.webp",
+      "img/Andjoua-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Andjoua",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Cheshunt 60'' Double Bathroom Vanity with Top",
+    "description": "Finalize your bathroom remodel in style with this product. Crafted from solid wood and finished in a neutral hue with paneled detailing, this piece showcases a classic look perfect for traditional and cottage aesthetics. A slab of stone rounds out the piece up top, as well as two ceramic under-mount sinks and six pre-drilled holes for faucets of your choice. When it comes to storage, this vanity is equipped with nine drawers and two cabinets for the essentials.",
+    "price": 889,
+    "discount":11,
+    "createdAt": "2024-05-07",
+    "category": "bathroom vanities ",
+    "imageCover": "img/Cheshunt.webp",
+    "images": [
+      "img/Cheshunt-1.webp",
+      "img/Cheshunt-2.webp",
+      "img/Cheshunt-3.webp",
+      "img/Cheshunt-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "cheshunt",
+        "color": "White",
+        "size": "Large",
+        "style": "Modern"
+      }
+    ]
+  },
+  {
+    "name": "Binne 60'' Double Bathroom Vanity with Top",
+    "description": "Finalize your bathroom remodel in style with this spacious, 60'' wide double vanity set. The freestanding rectangular frame is crafted from engineered, and it's finished in a neutral hue with Shaker-inspired detailing for a classic look that's ideal for traditional and cottage aesthetics. The countertop rounds out this piece, as well as two ceramic under-mount sinks and pre-drilled holes for the faucets of your choice (not included). When it comes to storage, this vanity is equipped with two drawers, an open lower shelf for baskets, and four cabinets for the essentials. Best of all, it arrives fully assembled. The pictured basket and faucet set are not included.",
+    "price": 1029,
+    "discount": 11,
+    "createdAt": "2024-05-08",
+    "category": "bathroom vanities ",
+    "imageCover": "img/Binne.webp",
+    "images": [
+      "img/Binne-1.webp",
+      "img/Binne-2.webp",
+      "img/Binne-3.webp",
+      "img/Binne-4.webp"
+    ],
+    "quantity": "13",
+    "productInformation": [
+      {
+        "Brand": "Binne",
         "color": "White",
         "size": "Large",
         "style": "Modern"
