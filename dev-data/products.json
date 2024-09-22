@@ -2,8 +2,8 @@
   {
     "name": "Monaco Upholstered Bed with Soft Corners, Edvards",
     "description": "This is a modern bed with a high headboard (giving a sense of security), well suited for small bedrooms where there is nothing more than a bed, soft carpet, nightstands, and some decorative elements. Why Monaco Bed? We understand that you take great care in selecting beds and furniture for your home. We recognize that an upholstered bed frame is more than just a place to sleep for you. We know that the combination of comfort, durability, and interior elements is mandatory for each king or queen-size bed frame with a headboard. Each Monaco contemporary bed frame has an embedded design to accommodate the mattress. So, unlike standard metal platform beds, the mattress is perfect and rests against the sides so that it will not slip off even during romantic evenings.",
-    "price": "1359",
-    "discount": "12",
+    "price": 1359,
+    "discount": 12,
     "createdAt": "2024-02-14",
     "category": "bedroom",
     "imageCover": "img/monaco-bed.webp",
@@ -13,7 +13,7 @@
       "img/monaco-bed-3.webp",
       "img/monaco-bed-4.webp"
     ],
-    "quantity": "15",
+    "quantity": 15,
     "productInformation": [
       {
         "Brand": "Edvards",
@@ -26,8 +26,8 @@
   {
     "name": "Sadarius Upholstered Bed",
     "description": "This fully upholstered platform bed boasts lush fabric, a rounded profile, and sleek vibes. Just like sleeping on the chicest cloud, our upholstered bed frame is the bed of your dreams. No need for a box spring, this bed has a slat base support built in. Simply top with your mattress and comfiest bed linens and you're on your way to the best sleep of your life.",
-    "price": "1748",
-    "discount": "14",
+    "price": 1748,
+    "discount": 14,
     "createdAt": "2024-03-21",
     "category": "bedroom",
     "imageCover": "img/Sadarius-Bed.webp",
@@ -37,7 +37,7 @@
       "img/Sadarius-Bed-3.webp",
       "img/Sadarius-Bed-4.webp"
     ],
-    "quantity": "18",
+    "quantity": 18,
     "productInformation": [
       {
         "Brand": "Sadarius",
@@ -50,8 +50,8 @@
   {
     "name": "Delmar Upholstered Platform Bed",
     "description": "An instant classic, this platform bed grounds your main or guest bedroom with its sleek design and vertical channel tufting. Foam-filled upholstery wraps the frame and headboard for a look that's equally cozy and refined, and we love how the neutral hue blends with a range of decor styles. Best of all, this piece comes with a slat kit, so it's ready to support your mattress (sold separately) right away – no box spring needed.",
-    "price": "769",
-    "discount": "8",
+    "price": 769,
+    "discount": 8,
     "createdAt": "2024-03-24",
     "category": "bedroom",
     "imageCover": "img/Delmar.webp",
@@ -61,7 +61,7 @@
       "img/Delmar-3.webp",
       "img/Delmar-4.webp"
     ],
-    "quantity": "21",
+    "quantity": 21,
     "productInformation": [
       {
         "Brand": "Delmar",
@@ -74,8 +74,8 @@
   {
     "name": "Coleman Upholstered Wingback Bed",
     "description": "An instant classic, this platform bed grounds your main or guest bedroom with its sleek design and vertical channel tufting. Foam-filled upholstery wraps the frame and headboard for a look that's equally cozy and refined, and we love how the neutral hue blends with a range of decor styles. Best of all, this piece comes with a slat kit, so it's ready to support your mattress (sold separately) right away – no box spring needed.",
-    "price": "949",
-    "discount": "14",
+    "price": 949,
+    "discount": 14,
     "createdAt": "2024-03-27",
     "category": "bedroom",
     "imageCover": "img/Coleman.webp",
@@ -85,7 +85,7 @@
       "img/Coleman-3.webp",
       "img/Coleman-4.webp"
     ],
-    "quantity": "14",
+    "quantity": 14,
     "productInformation": [
       {
         "Brand": "Coleman",
@@ -98,8 +98,8 @@
   {
     "name": "Antigua Solid Wood Bed",
     "description": "Inspired by Scandinavian design, this bed frame brings an organic look to your space with its streamlined profile + warm wood grains. It’s crafted from solid wood, with tapered rod legs that echo the rounded edges of its panel headboard, and low side rails for a simple, relaxed look.",
-    "price": "1399",
-    "discount": "17",
+    "price": 1399,
+    "discount": 17,
     "createdAt": "2024-04-26",
     "category": "bedroom",
     "imageCover": "img/Antigua.webp",
@@ -109,7 +109,7 @@
       "img/Antigua-3.webp",
       "img/Antigua-4.webp"
     ],
-    "quantity": "7",
+    "quantity": 7,
     "productInformation": [
       {
         "Brand": "Antigua",
@@ -122,8 +122,8 @@
   {
     "name": "Nyerere 123.24' Upholstered Sofa",
     "description": "This sectional sofa is crafted with linen material, providing a comfortable and stylish seating option. The available colors offering versatility to match various interior design schemes. The legs of the sofa are in an elegant espresso color, adding a touch of sophistication to the overall aesthetic. The sectional comes with two ottomans, providing additional seating or serving as a footrest for added comfort. Additionally, it includes four toss pillows, enhancing both the visual appeal and coziness of the sofa. The combination of materials, colors, and accessories makes this sectional a versatile and inviting piece of furniture for your living space.",
-    "price": "999",
-    "discount": "7",
+    "price": 999,
+    "discount": 7,
     "createdAt": "2024-05-03",
     "category": "sofas",
     "imageCover": "img/Nyerere.webp",
@@ -133,7 +133,7 @@
       "img/Nyerere-3.webp",
       "img/Nyerere-4.webp"
     ],
-    "quantity": "14",
+    "quantity": 14,
     "productInformation": [
       {
         "Brand": "Nyerere",
@@ -146,8 +146,8 @@
   {
     "name": "Avrilynn 120.08' Upholstered Sofa",
     "description": "This spacious sofa brings a cozy seating option to your living room or den. Upholstered in chenille fabric and faux sherpa, it offers a soft and inviting feel that's plush to the touch. The solid and engineered wood frame ensures a reliable foundation, while the foam-filled cushions provide a comfortable place to sit back and relax during game night. With a loose back and flared cushion arms, this sofa accommodates three people, making it a great spot for movie nights or casual conversations. Plus, the included footstool is great for kicking up your feet or placing down a tray of snacks. For easy maintenance, the cushions are removable.",
-    "price": "874",
-    "discount": "12",
+    "price": 874,
+    "discount": 12,
     "createdAt": "2024-04-14",
     "category": "sofas",
     "imageCover": "img/Avrilynn.webp",
@@ -157,7 +157,7 @@
       "img/Avrilynn-3.webp",
       "img/Avrilynn-4.webp"
     ],
-    "quantity": "13",
+    "quantity": 13,
     "productInformation": [
       {
         "Brand": "Avrilynn",
@@ -181,31 +181,7 @@
       "img/Askari-3.webp",
       "img/Askari-4.webp"
     ],
-    "quantity": "13",
-    "productInformation": [
-      {
-        "Brand": "Askari",
-        "color": "White",
-        "size": "Large",
-        "style": "Modern"
-      }
-    ]
-  },
-    {
-    "name": "Askari 132' Feather Down Cozy Cloud Sofa",
-    "description": "This modular sectional sofa gives you a versatile way to set up your living room with space for four people to enjoy movie night or the big game. Each piece has a solid and engineered wood frame that rests on black low-profile legs. This couch is wrapped in white linen upholstery with a foam fill and a sinuous spring to provide plenty of support as you stretch out and relax. With a crisp, clean silhouette this sectional is just the right addition to bring everyone together.",
-    "price": 2700,
-    "discount": 12,
-    "createdAt": "2024-04-14",
-    "category": "sofas",
-    "imageCover": "img/Askari.webp",
-    "images": [
-      "img/Askari-1.webp",
-      "img/Askari-2.webp",
-      "img/Askari-3.webp",
-      "img/Askari-4.webp"
-    ],
-    "quantity": "13",
+    "quantity": 13,
     "productInformation": [
       {
         "Brand": "Askari",

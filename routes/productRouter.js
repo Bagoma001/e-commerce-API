@@ -1,9 +1,23 @@
 import express from "express";
-import { getAllProducts } from "../Controllers/productController.js";
+import {
+  getFeaturedCategories,
+  getAllProducts,
+  getSingleProduct,
+  createProduct,
+  updateSingleProduct,
+  deleteSingleProduct,
+} from "../Controllers/productController.js";
 
 const router = express.Router();
 
-export default router;
 
-router.route("/").get(getAllProducts).post();
-router.route("/:product").get().patch().delete();
+
+router.get('/featured-categories', getFeaturedCategories, getAllProducts)
+router.route("/").get(getAllProducts).post(createProduct);
+router
+  .route("/:productId")
+  .get(getSingleProduct)
+  .patch(updateSingleProduct)
+  .delete(deleteSingleProduct);
+
+  export default router;
