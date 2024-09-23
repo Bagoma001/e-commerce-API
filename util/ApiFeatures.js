@@ -11,15 +11,6 @@ const ApiFeatures = (query, queryString) => {
 
   updatedQuery = updatedQuery.find(JSON.parse(queryStr));
 
-  //
-  // if (queryString.category) {
-  //   const queryStr = { ...queryString };
-  //   console.log(queryStr);
-  //   // let newQuery = queryStr.category.split(",").join(" ");
-  //   // console.log(newQuery);
-  //   updatedQuery = updatedQuery.find(queryStr);
-  // }
-
   if (queryString.name) {
     let queryStr = Object.values(queryString.name).join("");
 

@@ -23,6 +23,7 @@ const productSchema = new mongoose.Schema(
       default: Date.now,
     },
     category: String,
+    featured: String,
     slug: String,
     imageCover: {
       type: String,

@@ -4,8 +4,19 @@ import ApiFeatures from "../util/ApiFeatures.js";
 import AppError from "../util/AppError.js";
 
 export const getFeaturedCategories = (req, res, next) => {
+  req.query = {
+    featured: {
+      $in: [
+        "sofas",
+        "Bathroom Vanities",
+        "bedroom",
+        "office chairs",
+        "living room set",
+        "dining tables",
+      ],
+    },
+  };
   req.query.fields = "imageCover,category";
-  req.query.limit = 6;
 
   next();
 };

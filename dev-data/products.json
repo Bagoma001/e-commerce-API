@@ -6,6 +6,7 @@
     "discount": 12,
     "createdAt": "2024-02-14",
     "category": "bedroom",
+    "featured": "bedroom",
     "imageCover": "img/monaco-bed.webp",
     "images": [
       "img/monaco-bed-1.webp",
@@ -126,6 +127,8 @@
     "discount": 7,
     "createdAt": "2024-05-03",
     "category": "sofas",
+    "featured": "sofas",
+
     "imageCover": "img/Nyerere.webp",
     "images": [
       "img/Nyerere-1.webp",
@@ -181,9 +184,6 @@
       "img/Askari-3.webp",
       "img/Askari-4.webp"
     ],
-<<<<<<< HEAD
-    "quantity": 13,
-=======
     "quantity": "13",
     "productInformation": [
       {
@@ -209,7 +209,6 @@
       "img/Derick-4.webp"
     ],
     "quantity": "13",
->>>>>>> 5f291e342b87023074464972785075ad46d1ff52
     "productInformation": [
       {
         "Brand": "Derick",
@@ -250,6 +249,8 @@
     "discount": 9,
     "createdAt": "2024-04-15",
     "category": "office chairs",
+    "featured": "office chairs",
+
     "imageCover": "img/Lundgren.webp",
     "images": [
       "img/Lundren-1.webp",
@@ -370,6 +371,8 @@
     "discount": 10,
     "createdAt": "2024-04-24",
     "category": "living room set",
+    "featured": "living room set",
+
     "imageCover": "img/Frotten.webp",
     "images": [
       "img/Frotten-1.webp",
@@ -490,6 +493,8 @@
     "discount": 7,
     "createdAt": "2024-04-29",
     "category": "dining tables",
+    "featured": "dining tables",
+
     "imageCover": "img/Bernadete.webp",
     "images": [
       "img/Bernadete-1.webp",
@@ -610,6 +615,8 @@
     "discount": 8,
     "createdAt": "2024-05-04",
     "category": "bathroom vanities ",
+    "featured": "Bathroom Vanities",
+
     "imageCover": "img/Aalycia.webp",
     "images": [
       "img/Aalycia-1.webp",
@@ -679,7 +686,7 @@
     "name": "Cheshunt 60'' Double Bathroom Vanity with Top",
     "description": "Finalize your bathroom remodel in style with this product. Crafted from solid wood and finished in a neutral hue with paneled detailing, this piece showcases a classic look perfect for traditional and cottage aesthetics. A slab of stone rounds out the piece up top, as well as two ceramic under-mount sinks and six pre-drilled holes for faucets of your choice. When it comes to storage, this vanity is equipped with nine drawers and two cabinets for the essentials.",
     "price": 889,
-    "discount":11,
+    "discount": 11,
     "createdAt": "2024-05-07",
     "category": "bathroom vanities ",
     "imageCover": "img/Cheshunt.webp",
